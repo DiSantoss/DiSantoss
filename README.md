@@ -18,3 +18,4 @@
  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
+Sou um desenvolvedor entusiasta apaixonado por tecnologia e sempre em busca de novos desafios. Sinta-se à vontade para explorar e entrar em contato comigo para discutir colaborações ou ideias.
