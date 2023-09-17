@@ -1,4 +1,6 @@
 
+  <img src="https://github.com/DiSantoss/DiSantoss/assets/99044745/f9244d10-9177-4890-aaaf-9b40876dba49" class="stats-image" style="width: 100%; height: auto;">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Leandro;I'm+26+years+old;I'm+from+Rio+de+Janeiro,+Brasil;I+study+Back-end+at+Cubos+Academy+and;I+study+Front-end+at+B7web;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -6,7 +8,14 @@
 [![whatsup](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981085639)
 [![whatsup](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_disantossilva/)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Disantoss&show_icons=true&theme=synthwave)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Disantoss&show_icons=true&theme=synthwave) 
+![image](https://github.com/DiSantoss/DiSantoss/assets/99044745/f9244d10-9177-4890-aaaf-9b40876dba49)
+
+
+
+
+
+
 
 
 ### technologies that I deal with in my daily life
