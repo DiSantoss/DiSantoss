@@ -8,13 +8,6 @@
 [![whatsup](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981085639)
 [![whatsup](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_disantossilva/)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=Disantoss&show_icons=true&theme=synthwave) 
-![image](https://github.com/DiSantoss/DiSantoss/assets/99044745/f9244d10-9177-4890-aaaf-9b40876dba49)
-
-
-
-
-
 
 
 
